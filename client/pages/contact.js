@@ -10,8 +10,8 @@ const Contact = () => {
         free to contact us at:
       </p>
       <p className="text-md md:text-xl">
-        <a href="mailto:jeff.jiang13@gmail.com" className="text-blue-500">
-            jeff.jiang13@gmail.com
+        <a href="mailto:boydalbert81@gmail.com" className="text-blue-500">
+            boydalbert81@gmail.com
         </a>
       </p>
       </Wrapper>
